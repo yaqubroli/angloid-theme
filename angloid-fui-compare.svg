@@ -1,0 +1,135 @@
+<svg width="400" height="1300" xmlns="http://www.w3.org/2000/svg">
+    <!-- First Color Palette -->
+    <text x="10" y="20" font-family="Arial" font-size="16" fill="black">First Palette:</text>
+
+    <!-- Colors from First Palette -->
+    <rect x="10" y="40" width="50" height="20" fill="#1abc9c" />
+    <text x="70" y="55" font-family="Arial" font-size="14" fill="black">fui-turquoise</text>
+
+    <rect x="10" y="70" width="50" height="20" fill="#2ecc71" />
+    <text x="70" y="85" font-family="Arial" font-size="14" fill="black">fui-emerald</text>
+
+    <rect x="10" y="100" width="50" height="20" fill="#3498db" />
+    <text x="70" y="115" font-family="Arial" font-size="14" fill="black">fui-river</text>
+
+    <rect x="10" y="130" width="50" height="20" fill="#9b59b6" />
+    <text x="70" y="145" font-family="Arial" font-size="14" fill="black">fui-amethyst</text>
+
+    <rect x="10" y="160" width="50" height="20" fill="#34495e" />
+    <text x="70" y="175" font-family="Arial" font-size="14" fill="black">fui-deep-asphalt</text>
+
+    <rect x="10" y="190" width="50" height="20" fill="#425d78" />
+    <text x="70" y="205" font-family="Arial" font-size="14" fill="black">fui-asphalt</text>
+
+    <rect x="10" y="220" width="50" height="20" fill="#f1c40f" />
+    <text x="70" y="235" font-family="Arial" font-size="14" fill="black">fui-sunflower</text>
+
+    <rect x="10" y="250" width="50" height="20" fill="#e67e22" />
+    <text x="70" y="265" font-family="Arial" font-size="14" fill="black">fui-carrot</text>
+
+    <rect x="10" y="280" width="50" height="20" fill="#e74c3c" />
+    <text x="70" y="295" font-family="Arial" font-size="14" fill="black">fui-alizarin</text>
+
+    <rect x="10" y="310" width="50" height="20" fill="#ecf0f1" />
+    <text x="70" y="325" font-family="Arial" font-size="14" fill="black">fui-clouds</text>
+
+    <rect x="10" y="340" width="50" height="20" fill="#95a5a6" />
+    <text x="70" y="355" font-family="Arial" font-size="14" fill="black">fui-concrete</text>
+
+    <rect x="10" y="370" width="50" height="20" fill="#16a085" />
+    <text x="70" y="385" font-family="Arial" font-size="14" fill="black">fui-dark-turquoise</text>
+
+    <rect x="10" y="400" width="50" height="20" fill="#27ae60" />
+    <text x="70" y="415" font-family="Arial" font-size="14" fill="black">fui-dark-emerald</text>
+
+    <rect x="10" y="430" width="50" height="20" fill="#2980b9" />
+    <text x="70" y="445" font-family="Arial" font-size="14" fill="black">fui-dark-river</text>
+
+    <rect x="10" y="460" width="50" height="20" fill="#8e44ad" />
+    <text x="70" y="475" font-family="Arial" font-size="14" fill="black">fui-dark-amethyst</text>
+
+    <rect x="10" y="490" width="50" height="20" fill="#2c3e50" />
+    <text x="70" y="505" font-family="Arial" font-size="14" fill="black">fui-dark-asphalt</text>
+
+    <rect x="10" y="520" width="50" height="20" fill="#f39c12" />
+    <text x="70" y="535" font-family="Arial" font-size="14" fill="black">fui-dark-sunflower</text>
+
+    <rect x="10" y="550" width="50" height="20" fill="#d35400" />
+    <text x="70" y="565" font-family="Arial" font-size="14" fill="black">fui-dark-carrot</text>
+
+    <rect x="10" y="570" width="50" height="20" fill="#c0392b" />
+    <text x="70" y="585" font-family="Arial" font-size="14" fill="black">fui-dark-alizarin</text>
+
+    <rect x="10" y="600" width="50" height="20" fill="#bdc3c7" />
+    <text x="70" y="615" font-family="Arial" font-size="14" fill="black">fui-dark-clouds</text>
+
+    <rect x="10" y="630" width="50" height="20" fill="#dce0e1" />
+    <text x="70" y="645" font-family="Arial" font-size="14" fill="black">fui-deep-clouds</text>
+
+    <rect x="10" y="660" width="50" height="20" fill="#7f8c8d" />
+    <text x="70" y="675" font-family="Arial" font-size="14" fill="black">fui-dark-concrete</text>
+
+    <!-- Second Color Palette -->
+    <text x="10" y="700" font-family="Arial" font-size="16" fill="black">Second Palette:</text>
+
+    <rect x="10" y="720" width="50" height="20" fill="#00a8ff" />
+    <text x="70" y="735" font-family="Arial" font-size="14" fill="black">angloid-protoss-pylon</text>
+
+    <rect x="10" y="750" width="50" height="20" fill="#9c88ff" />
+    <text x="70" y="765" font-family="Arial" font-size="14" fill="black">angloid-periwinkle</text>
+
+    <rect x="10" y="780" width="50" height="20" fill="#fbc531" />
+    <text x="70" y="795" font-family="Arial" font-size="14" fill="black">angloid-rise-n-shine</text>
+
+    <rect x="10" y="810" width="50" height="20" fill="#4cd137" />
+    <text x="70" y="825" font-family="Arial" font-size="14" fill="black">angloid-download-progress</text>
+
+    <rect x="10" y="840" width="50" height="20" fill="#487eb0" />
+    <text x="70" y="855" font-family="Arial" font-size="14" fill="black">angloid-seabrook</text>
+
+    <rect x="10" y="870" width="50" height="20" fill="#0097e6" />
+    <text x="70" y="885" font-family="Arial" font-size="14" fill="black">angloid-vanadyl-blue</text>
+
+    <rect x="10" y="900" width="50" height="20" fill="#8c7ae6" />
+    <text x="70" y="915" font-family="Arial" font-size="14" fill="black">angloid-matt-purple</text>
+
+    <rect x="10" y="930" width="50" height="20" fill="#e1b12c" />
+    <text x="70" y="945" font-family="Arial" font-size="14" fill="black">angloid-nanohanacha-gold</text>
+
+    <rect x="10" y="960" width="50" height="20" fill="#44bd32" />
+    <text x="70" y="975" font-family="Arial" font-size="14" fill="black">angloid-skirret-green</text>
+
+    <rect x="10" y="990" width="50" height="20" fill="#40739e" />
+    <text x="70" y="1005" font-family="Arial" font-size="14" fill="black">angloid-naval</text>
+
+    <rect x="10" y="1020" width="50" height="20" fill="#e84118" />
+    <text x="70" y="1035" font-family="Arial" font-size="14" fill="black">angloid-nasturcian-flower</text>
+
+    <rect x="10" y="1050" width="50" height="20" fill="#f5f6fa" />
+    <text x="70" y="1065" font-family="Arial" font-size="14" fill="black">angloid-lynx-white</text>
+
+    <rect x="10" y="1080" width="50" height="20" fill="#7f8fa6" />
+    <text x="70" y="1095" font-family="Arial" font-size="14" fill="black">angloid-blueberry-soda</text>
+
+    <rect x="10" y="1110" width="50" height="20" fill="#273c75" />
+    <text x="70" y="1125" font-family="Arial" font-size="14" fill="black">angloid-mazarine-blue</text>
+
+    <rect x="10" y="1140" width="50" height="20" fill="#353b48" />
+    <text x="70" y="1155" font-family="Arial" font-size="14" fill="black">angloid-blue-night</text>
+
+    <rect x="10" y="1170" width="50" height="20" fill="#c23616" />
+    <text x="70" y="1185" font-family="Arial" font-size="14" fill="black">angloid-harley-davidson-orange</text>
+
+    <rect x="10" y="1200" width="50" height="20" fill="#dcdde1" />
+    <text x="70" y="1215" font-family="Arial" font-size="14" fill="black">angloid-hint-of-pensive</text>
+
+    <rect x="10" y="1230" width="50" height="20" fill="#718093" />
+    <text x="70" y="1245" font-family="Arial" font-size="14" fill="black">angloid-chain-gang-grey</text>
+
+    <rect x="10" y="1260" width="50" height="20" fill="#192a56" />
+    <text x="70" y="1275" font-family="Arial" font-size="14" fill="black">angloid-pico-void</text>
+
+    <rect x="10" y="1290" width="50" height="20" fill="#2f3640" />
+    <text x="70" y="1305" font-family="Arial" font-size="14" fill="black">angloid-electromagnetic</text>
+
+</svg>

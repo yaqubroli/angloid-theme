@@ -1,0 +1,5 @@
+* Angloid Theme for Emacs
+
+Based off the "British colours" on flatuicolors, hence the name Angloid.
+
+WIP.
