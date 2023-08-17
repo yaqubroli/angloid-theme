@@ -1,15 +1,15 @@
-;;; angloid-dark-theme.el --- Custom theme inspired by the FlatUI palette
-
-;; Copyright (C) 2018 MetroWind.
-
+;;; angloid-themes.el --- Custom theme inspired by the Flat UI palette
+;;
+;; FlucUI code (from which this theme was derived): Copyright (C) 2018 MetroWind.
+;;
 ;; This program is free software. It comes without any warranty, to
 ;; the extent permitted by applicable law. You can redistribute it
 ;; and/or modify it under the terms of the Do What the Fuck You Want
 ;; to Public License, Version 2, as published by Sam Hocevar. See
 ;; http://www.wtfpl.net/ for more details.
 
-;; Author: MetroWind <chris.corsair@gmail.com>
-;; URL: https://github.com/MetroWind/angloid-theme
+;; Author: Jacob Walchuk <walchuk2018@icloud.com>
+;; URL: https://github.com/yaqubroli/angloid-theme
 ;; Keywords: lisp
 ;; Version: 1.0
 ;; Package-Requires: ((emacs "24"))
@@ -31,7 +31,6 @@
 
 ;; Colors
 (let*
-(let*
     ((angloid-protoss-pylon "#00a8ff")
      (angloid-periwinkle "#9c88ff")
      (angloid-rise-n-shine "#fbc531")
@@ -52,12 +51,13 @@
      (angloid-chain-gang-grey "#718093")
      (angloid-pico-void "#192a56")
      (angloid-electromagnetic "#2f3640")
+     (angloid-grey-900 "#212121")
 
      (fui-turquoise angloid-protoss-pylon)
      (fui-emerald angloid-download-progress)
      (fui-river angloid-vanadyl-blue)
      (fui-amethyst angloid-periwinkle)
-     (fui-deep-asphalt angloid-electromagnetic)
+     (fui-deep-asphalt angloid-grey-900)
      (fui-asphalt angloid-chain-gang-grey)
      (fui-sunflower angloid-rise-n-shine)
      (fui-carrot angloid-nasturcian-flower)
@@ -72,11 +72,11 @@
      (fui-dark-sunflower angloid-nanohanacha-gold)
      (fui-dark-carrot angloid-harley-davidson-orange)
      (fui-dark-alizarin angloid-harley-davidson-orange)
-     (fui-dark-clouds angloid-hint-of-pensive)
+     (fui-dark-clouds angloid-electromagnetic)
      (fui-deep-clouds angloid-hint-of-pensive)
      (fui-dark-concrete angloid-blueberry-soda)
      
-     (fui-bg angloid-electromagnetic)
+     (fui-bg angloid-grey-900)
      (fui-fg angloid-lynx-white))
 
   (custom-theme-set-faces

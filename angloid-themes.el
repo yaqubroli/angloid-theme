@@ -1,6 +1,6 @@
 ;;; angloid-themes.el --- Custom theme inspired by the Flat UI palette
 ;;
-;; Copyright (C) 2018 MetroWind.
+;; FlucUI code (from which this theme was derived): Copyright (C) 2018 MetroWind.
 ;;
 ;; This program is free software. It comes without any warranty, to
 ;; the extent permitted by applicable law. You can redistribute it
@@ -8,8 +8,8 @@
 ;; to Public License, Version 2, as published by Sam Hocevar. See
 ;; http://www.wtfpl.net/ for more details.
 
-;; Author: MetroWind <chris.corsair@gmail.com>
-;; URL: https://github.com/MetroWind/angloid-theme
+;; Author: Jacob Walchuk <walchuk2018@icloud.com>
+;; URL: https://github.com/yaqubroli/angloid-theme
 ;; Keywords: lisp
 ;; Version: 1.0
 ;; Package-Requires: ((emacs "24"))

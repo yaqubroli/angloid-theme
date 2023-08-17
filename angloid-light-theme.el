@@ -1,15 +1,15 @@
-;;; angloid-light-theme.el --- Custom theme inspired by the FlatUI palette
-
-;; Copyright (C) 2010--2018 MetroWind.
-
+;;; angloid-themes.el --- Custom theme inspired by the Flat UI palette
+;;
+;; FlucUI code (from which this theme was derived): Copyright (C) 2018 MetroWind.
+;;
 ;; This program is free software. It comes without any warranty, to
 ;; the extent permitted by applicable law. You can redistribute it
 ;; and/or modify it under the terms of the Do What the Fuck You Want
 ;; to Public License, Version 2, as published by Sam Hocevar. See
 ;; http://www.wtfpl.net/ for more details.
 
-;; Author: MetroWind <chris.corsair@gmail.com>
-;; URL: https://github.com/MetroWind/angloid-theme
+;; Author: Jacob Walchuk <walchuk2018@icloud.com>
+;; URL: https://github.com/yaqubroli/angloid-theme
 ;; Keywords: lisp
 ;; Version: 1.0
 ;; Package-Requires: ((emacs "24"))
@@ -18,7 +18,7 @@
 ;;
 ;; Fluc UI theme is a custom theme for Emacs, inspired by
 ;; http://flatuicolors.com. It Has both light and dark variants. This
-;; file provides light variant.
+;; file provides some utilities to load and switch themes.
 
 ;;; Code:
 
