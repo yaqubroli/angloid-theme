@@ -1,4 +1,4 @@
-# Fluc UI Theme for Emacs
+# Angloid Theme for Emacs
 
 [![MELPA](https://melpa.org/packages/flucui-themes-badge.svg)](https://melpa.org/#/flucui-themes)
 
